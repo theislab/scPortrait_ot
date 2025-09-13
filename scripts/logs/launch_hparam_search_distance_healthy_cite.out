@@ -1,0 +1,4 @@
+[2025-08-08 11:27:03,406][HYDRA] Submitit 'slurm' sweep output dir : multirun/2025-08-08/11-27-01
+[2025-08-08 11:27:03,408][HYDRA] 	#0 : model.distance=euclidean datamodule=healthy_cite hparam_search=sweep_distance logger.project=scportrait_ot_sweep_distance_healthy_cite_non_unif
+[2025-08-08 11:27:03,416][HYDRA] 	#1 : model.distance=inverse_correlation datamodule=healthy_cite hparam_search=sweep_distance logger.project=scportrait_ot_sweep_distance_healthy_cite_non_unif
+[2025-08-08 11:27:03,424][HYDRA] 	#2 : model.distance=cosine datamodule=healthy_cite hparam_search=sweep_distance logger.project=scportrait_ot_sweep_distance_healthy_cite_non_unif

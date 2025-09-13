@@ -1,0 +1,18 @@
+adata_path: /home/icb/alessandro.palma/environment/scportrait_ot/project_folder/data/citeseq/CITEseq_rna_processed.h5ad
+count_label: X_normalized_log
+embedding_label: X_harmony_RNA
+batch_label: donor_id
+dims:
+- 256
+- 256
+batch_norm: false
+dropout: false
+dropout_p: 0.0
+batch_encoding: false
+batch_encoding_dim: null
+learning_rate: 0.001
+likelihood: gaussian
+batch_size: 256
+max_epochs: 100
+training_dir: /home/icb/alessandro.palma/environment/scportrait_ot/project_folder/experiements
+project: decoder_cite_log

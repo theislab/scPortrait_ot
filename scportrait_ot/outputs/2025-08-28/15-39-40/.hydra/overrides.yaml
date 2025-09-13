@@ -1,0 +1,4 @@
+- adata_path=/home/icb/alessandro.palma/environment/scportrait_ot/project_folder/data/citeseq/CITEseq_rna_processed.h5ad
+- count_label=X_normalized_10k
+- dims=[256, 256]
+- project=decoder_cite_10k

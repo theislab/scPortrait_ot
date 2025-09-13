@@ -1,0 +1,5 @@
+- adata_path=/home/icb/alessandro.palma/environment/scportrait_ot/project_folder/data/citeseq/CITEseq_rna_processed_full_genome.h5ad
+- count_label=X_normalized_log
+- dims=[256, 256]
+- project=decoder_cite_log_whole_genome
+- likelihood=gaussian

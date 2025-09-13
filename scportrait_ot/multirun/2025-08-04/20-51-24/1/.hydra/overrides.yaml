@@ -1,0 +1,4 @@
+- model.distance=inverse_correlation
+- datamodule=healthy_cite
+- hparam_search=sweep_distance
+- logger.project=scportrait_ot_sweep_distance_healthy_cite
