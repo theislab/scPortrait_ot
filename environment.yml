@@ -1,4 +1,4 @@
-name: scportrait
+name: scportrait_ot
 channels:
   - conda-forge
 dependencies:
