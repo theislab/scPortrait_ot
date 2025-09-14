@@ -20,8 +20,7 @@
 
 export HYDRA_FULL_ERROR=1
 
-
-cd /home/icb/alessandro.palma/environment/scportrait_ot/src
+cd ../..
 
 python main_autoencoder_train.py \
   adata_path="/home/icb/alessandro.palma/environment/scportrait_ot/project_folder/data/citeseq/CITEseq_rna_processed.h5ad" \

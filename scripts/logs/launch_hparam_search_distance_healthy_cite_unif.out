@@ -1,8 +1,0 @@
-[2025-08-08 12:38:47,538][HYDRA] Submitit 'slurm' sweep output dir : multirun/2025-08-08/12-38-46
-[2025-08-08 12:38:47,558][HYDRA] Submitit 'slurm' sweep output dir : multirun/2025-08-08/12-38-46
-[2025-08-08 12:38:47,578][HYDRA] 	#0 : model.distance=euclidean datamodule=healthy_cite hparam_search=sweep_distance logger.project=scportrait_ot_sweep_distance_healthy_cite datamodule.uniform_sampling_rna=True
-[2025-08-08 12:38:47,599][HYDRA] 	#0 : model.distance=euclidean datamodule=tonsilitis_cite hparam_search=sweep_distance logger.project=scportrait_ot_sweep_distance_tonsilitis_cite datamodule.uniform_sampling_rna=True
-[2025-08-08 12:38:47,614][HYDRA] 	#1 : model.distance=inverse_correlation datamodule=tonsilitis_cite hparam_search=sweep_distance logger.project=scportrait_ot_sweep_distance_tonsilitis_cite datamodule.uniform_sampling_rna=True
-[2025-08-08 12:38:47,614][HYDRA] 	#1 : model.distance=inverse_correlation datamodule=healthy_cite hparam_search=sweep_distance logger.project=scportrait_ot_sweep_distance_healthy_cite datamodule.uniform_sampling_rna=True
-[2025-08-08 12:38:47,621][HYDRA] 	#2 : model.distance=cosine datamodule=tonsilitis_cite hparam_search=sweep_distance logger.project=scportrait_ot_sweep_distance_tonsilitis_cite datamodule.uniform_sampling_rna=True
-[2025-08-08 12:38:47,623][HYDRA] 	#2 : model.distance=cosine datamodule=healthy_cite hparam_search=sweep_distance logger.project=scportrait_ot_sweep_distance_healthy_cite datamodule.uniform_sampling_rna=True
