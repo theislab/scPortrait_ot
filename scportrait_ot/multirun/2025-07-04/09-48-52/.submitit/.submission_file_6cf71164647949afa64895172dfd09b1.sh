@@ -1,1 +1,0 @@
-/ictstr01/home/icb/alessandro.palma/environment/scportrait_ot/src/multirun/2025-07-04/09-48-52/.submitit/26668593/26668593_submission.sh

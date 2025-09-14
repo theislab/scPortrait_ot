@@ -1,5 +1,0 @@
-- model.distance=cosine
-- datamodule=tonsilitis_cite
-- hparam_search=sweep_distance
-- logger.project=scportrait_ot_sweep_distance_healthy_cite
-- datamodule.uniform_sampling_rna=True

@@ -216,4 +216,3 @@ def inverse_correlation_cost(x0, x1):
     # Correlation matrix = cosine of zero-mean vectors
     corr = torch.matmul(x0_normed, x1_normed.T)
     return 1 - corr  # inverse correlation as cost
-

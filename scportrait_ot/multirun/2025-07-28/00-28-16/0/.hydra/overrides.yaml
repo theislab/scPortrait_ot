@@ -1,4 +1,0 @@
-- model.distance=euclidean
-- datamodule=healthy
-- hparam_search=sweep_distance
-- logger.project=scportrait_ot_sweep_distance_healthy

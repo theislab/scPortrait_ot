@@ -1,6 +1,0 @@
-submitit INFO (2025-07-31 18:32:26,891) - Starting with JobEnvironment(job_id=27163380_1, hostname=gpusrv41.scidom.de, local_rank=0(1), node=0(1), global_rank=0(1))
-submitit INFO (2025-07-31 18:32:26,892) - Loading pickle: /ictstr01/home/icb/alessandro.palma/environment/scportrait_ot/src/multirun/2025-07-31/18-32-09/.submitit/27163380_1/27163380_1_submitted.pkl
-submitit INFO (2025-07-31 18:35:51,906) - Job completed successfully
-[2025-07-31 18:35:51,906][submitit][INFO] - Job completed successfully
-submitit INFO (2025-07-31 18:35:51,918) - Exiting after successful completion
-[2025-07-31 18:35:51,918][submitit][INFO] - Exiting after successful completion

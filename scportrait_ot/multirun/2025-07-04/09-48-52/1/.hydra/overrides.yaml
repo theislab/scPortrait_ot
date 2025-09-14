@@ -1,4 +1,0 @@
-- model.distance=inverse_correlation
-- datamodule=healthy_uniform
-- hparam_search=sweep_distance
-- logger.project=scportrait_ot_sweep_distance_uniform_healthy
