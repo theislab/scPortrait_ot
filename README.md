@@ -39,7 +39,7 @@ Create an experiment folder and download the main data from `scPortrait_manuscri
 
 * To train models, make sure to complete all the configuration files with the paths to the data and target folder according to your file hierarchy. The files requiring path changes are:
 
-  * `configs/datamodule/tonsilitis_cite.yaml`
+  * `configs/datamodule/tonsillitis_cite.yaml`
   * `configs/training_config/default.yaml`
   * `configs/configs_autoencoder/train_cite_log.yaml`
 
